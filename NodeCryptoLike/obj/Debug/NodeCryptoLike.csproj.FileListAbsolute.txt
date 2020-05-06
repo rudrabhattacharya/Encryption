@@ -1,0 +1,9 @@
+F:\work\projects\dotnet\Encryption\NodeCryptoLike\obj\Debug\NodeCryptoLike.csprojAssemblyReference.cache
+F:\work\projects\dotnet\Encryption\NodeCryptoLike\bin\Debug\NodeCryptoLike.exe.config
+F:\work\projects\dotnet\Encryption\NodeCryptoLike\bin\Debug\NodeCryptoLike.exe
+F:\work\projects\dotnet\Encryption\NodeCryptoLike\bin\Debug\NodeCryptoLike.pdb
+F:\work\projects\dotnet\Encryption\NodeCryptoLike\obj\Debug\NodeCryptoLike.exe
+F:\work\projects\dotnet\Encryption\NodeCryptoLike\obj\Debug\NodeCryptoLike.pdb
+F:\work\projects\dotnet\Encryption\NodeCryptoLike\bin\Debug\Newtonsoft.Json.dll
+F:\work\projects\dotnet\Encryption\NodeCryptoLike\bin\Debug\Newtonsoft.Json.xml
+F:\work\projects\dotnet\Encryption\NodeCryptoLike\obj\Debug\NodeCryptoLike.csproj.CopyComplete
